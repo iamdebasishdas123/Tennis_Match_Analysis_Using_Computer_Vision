@@ -12,7 +12,7 @@ This project focuses on analyzing tennis ball trajectories and performance metri
 - Visualization of results
 
 ## Architecture
-![Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](images/Model.png)
 
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
